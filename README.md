@@ -1,2 +1,2 @@
-# Mobile-CodeCraft
+# Mobile CodeCraft
 Mobile application development group project.
